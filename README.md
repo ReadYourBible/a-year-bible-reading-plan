@@ -1,25 +1,40 @@
 # A Year Bible Reading Plan
 
-This repository provides a structured Bible reading plan to guide readers through the entire Bible in one year.
+This repository contains a structured Bible reading plan divided into 365 folders—one for each day of the calendar year. The plan guides readers through the entire Bible in daily readings of approximately 15 minutes.
 
-## Repository Contents
+## Repository Structure
 
-### `bible-reading-plan.txt`
-- The main file of this repository.
-- Contains 365 lines, one for each day of the year.
-- Each line includes specific Bible passages to read on that day.
-- Designed to balance Old Testament, New Testament, Psalms, and Proverbs across the year.
+- Each folder is named `day-001`, `day-002`, ..., up to `day-365`.
+- Inside each folder, there is a single file (e.g., `reading.md`) that lists the Bible chapters assigned for that day.
+- The reading order goes from Genesis to Revelation, following a mostly sequential pattern.
+- The plan includes the entire Old and New Testaments, Psalms, Proverbs, and all major and minor prophets.
 
 ## Purpose
 
-This reading plan is ideal for individuals or groups who want a consistent, daily approach to reading the Bible from beginning to end in one year. It can also be used with printed Bibles or audio Bibles, and adapted to fit different devotional formats.
+This plan is ideal for individuals, families, or groups who want to read through the entire Bible in one year. With daily portions designed to be completed in approximately 15 minutes, it offers a sustainable, consistent devotional rhythm.
 
-## Usage
+## How to Use
 
-- Start on January 1st or any day of your choosing.
-- Read the listed passages for each day in order.
-- Optionally, print or copy the plan into your preferred note-taking or calendar app for daily tracking.
+1. Start with `day-001` and proceed day by day through `day-365`.
+2. Each folder contains the daily assigned Bible chapters.
+3. You can integrate this plan with:
+   - A printed Bible
+   - A digital Bible app
+   - An audio Bible (ideal for listening on walks or commutes)
+
+## Example
+```
+day-001/ └── Genesis 1–4
+day-002/ └── Genesis 5–8
+```
+
+
+## Customization Ideas
+
+- Pair with a journaling app or physical notebook.
+- Add checkboxes to mark completed days.
+- Supplement with commentary, prayer, or reflection notes in each folder.
 
 ## License
 
-This project is open and free to use for personal or group study.
+This reading plan is freely available for personal and group use.
